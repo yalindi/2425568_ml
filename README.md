@@ -17,7 +17,7 @@ Summary of Results
 
 | Model |	Accuracy |	Precision |	Recall |	F1 | AUC |
 | :------- | :------: | -------: | -------: | -------: | -------: |
-| Decision Tree |	0.76 | 0.54	| 0.80 | 0.64 | 0.83 |
+| Decision Tree |	0.76 | 0.54	| 0.80 | 0.64 | 0.84 |
 | Neural Network | 0.79	| 0.61 | 0.67	|0.64 | 0.85 |
 | Neural Network (Optimised Threshold) | 0.74	| 0.51 | 0.84	|0.64	| 0.85 |
 
